@@ -26,7 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
+// Because name is Identified as Dane it's going to consul log how do you do?
+
 // 
 // 
 //
@@ -45,7 +46,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+//  It will console log Secret equals super because 123×2 is not 250 and the code is not greater than 250 therefore it's going to console log super
+
 // 
 // 
 //
